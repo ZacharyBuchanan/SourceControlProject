@@ -1,8 +1,12 @@
 h1{
-    color: blue;
+    color: white;
     background-color: black;
 }
 
 p {
     color: blue;
+}
+
+ul {
+    line-height: 150%;
 }
